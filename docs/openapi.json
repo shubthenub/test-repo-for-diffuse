@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "test-repo-for-diffuse Documentation",
+    "version": "1.0.0",
+    "description": "Auto-generated documentation for commit 57bb385",
+    "contact": {
+      "name": "shashank shubham"
+    }
+  },
+  "paths": {
+    "/api/v1/status": {
+      "get": {
+        "summary": "Health check",
+        "responses": {
+          "200": {
+            "description": "System is operational"
+          }
+        }
+      }
+    }
+  }
+}
