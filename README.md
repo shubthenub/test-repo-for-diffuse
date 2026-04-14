@@ -10,3 +10,5 @@ testing again with vscode port forwarding instead of localtunnel
 4th try with installation app token , after finding the users repo (failed because permission was not accepted via email)
 
 5th attempt after permission accepted 
+
+doc was generated but fall into a loop of commit->webhook->docCommit , as doc commit is also a commit , trying to fix it with [bot] suffix check or commit message check
