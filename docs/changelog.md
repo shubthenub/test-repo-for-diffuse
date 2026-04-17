@@ -1,3 +1,8 @@
+## 2026-04-17 — `84e48a0`
+_docs: update API documentation & changelog [skip ci]
+
+Generated from commit 8deb662_
+
 ## 2026-04-15 — `8deb662`
 _2nd attempt with atomic commit logic to prevent timedrift and multifile commit_
 
